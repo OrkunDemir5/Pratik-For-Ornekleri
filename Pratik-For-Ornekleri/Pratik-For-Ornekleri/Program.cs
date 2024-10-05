@@ -36,13 +36,16 @@ int ciftSayiToplam = 0;
 for (int i = 1; i <= 120; i++)
 {
     if ( i % 2 == 0)
-    {
+    {    
+        // Tek sayıları topluyoruz
         tekSayiToplam += i;
     }
     else
     {
+        // Çİft sayıları topluyoruz
         ciftSayiToplam += i;
     }
 }
+// Sonuçları ekrana yazdırıyoruz
 Console.WriteLine($"Tek sayıların toplamı: {tekSayiToplam}");
 Console.WriteLine($"Çift sayıların toplamı: {ciftSayiToplam}");
