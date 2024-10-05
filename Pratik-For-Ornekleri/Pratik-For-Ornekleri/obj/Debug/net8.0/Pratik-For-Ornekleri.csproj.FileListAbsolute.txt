@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\bin\Debug\net8.0\Pratik-For-Ornekleri.exe
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\bin\Debug\net8.0\Pratik-For-Ornekleri.deps.json
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\bin\Debug\net8.0\Pratik-For-Ornekleri.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\bin\Debug\net8.0\Pratik-For-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\bin\Debug\net8.0\Pratik-For-Ornekleri.pdb
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\refint\Pratik-For-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.pdb
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\Pratik-For-Ornekleri.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-For-Ornekleri\Pratik-For-Ornekleri\obj\Debug\net8.0\ref\Pratik-For-Ornekleri.dll
